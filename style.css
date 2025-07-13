@@ -196,7 +196,7 @@ main {
 .see-text {
   color: rgb(255, 157, 0);
 }
-.shoe-card img {
+.shoe-img {
   width: 300px;
   height: 180px;
 }
@@ -233,6 +233,12 @@ main {
 .fa-solid {
   padding-left: 10px;
 }
+
+.img-bag {
+  width: 290px;
+  height: 280px;
+  margin-bottom: 20px;
+}
 /* main */
 /* contact us */
 .contact-us {
@@ -268,6 +274,10 @@ main {
 .contact-us h2 {
   margin-top: 130px;
   padding: 5px 0px;
+}
+
+.panda-btn {
+  margin-top: 0px;
 }
 
 footer {
